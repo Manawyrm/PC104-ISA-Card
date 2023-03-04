@@ -175,7 +175,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (layer "F.Cu")
     (tedit 56DDBCCA) (tstamp 3a499fe0-7b08-4a5b-8a81-884749d6afab)
-    (at 195.08 140.515)
+    (at 195.08 149.015)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "PC104-ISA-Card.kicad_sch")
@@ -218,7 +218,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (layer "F.Cu")
     (tedit 56DDBCCA) (tstamp 9d06c3aa-1a87-48a0-b9bb-813f1c883080)
-    (at 195.08 84)
+    (at 195.08 92.5)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "PC104-ISA-Card.kicad_sch")
